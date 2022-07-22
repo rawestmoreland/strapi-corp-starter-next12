@@ -4,7 +4,6 @@ import { buttonLinkPropTypes } from 'utils/types';
 import CustomLink from './custom-link';
 
 const ButtonContent = ({ button, appearance, compact }) => {
-  console.log({ appearance });
   return (
     <div
       className={classNames(
