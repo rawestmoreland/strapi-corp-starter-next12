@@ -1,4 +1,4 @@
-import classNames from 'classNames';
+import classNames from 'classnames';
 import PropTypes from 'prop-types';
 import { buttonLinkPropTypes } from 'utils/types';
 import CustomLink from './custom-link';
